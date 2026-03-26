@@ -35,8 +35,6 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 package-lock.json
@@ -55,3 +53,4 @@ contracts/scripts/__pycache__/
 !contracts/.env.local
 !contracts/.env.testnet
 !contracts/.env.mainnet
+config.bat
